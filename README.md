@@ -1,1 +1,1 @@
-# TP
+# Solutions to problems on SPOJ
